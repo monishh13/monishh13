@@ -19,7 +19,7 @@ I'm a software enthusiast with a love for clean code, problem-solving, and conti
 
 **Languages:** Java, JavaScript, TypeScript, Python, C++  
 **Frontend:** React, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express  
+**Backend:** SpringBoot, FastAPI 
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **Tools & Platforms:** Git, Docker, REST APIs  
 
