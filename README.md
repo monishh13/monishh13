@@ -35,8 +35,8 @@ I'm a software enthusiast with a love for clean code, problem-solving, and conti
 
 ## 🎯 Featured Projects
 
-- **[fake_news](https://github.com/monishh13/fake_news)** - Fake news detection system
-- **[PeakGymManagementSystem](https://github.com/monishh13/PeakGymManagementSystem)** - Comprehensive gym management solution
+- **[AiVera](https://github.com/monishh13/fake_news)** - Fake news detection system
+- **[Peak](https://github.com/monishh13/PeakGymManagementSystem)** - Comprehensive gym management solution
 
 ---
 
